@@ -3,11 +3,12 @@
 Anyone starting with ReactJS project with the features mentioned in the next section can just clone and start building.
 
 ![Made With Love](https://img.shields.io/badge/Made%20With-Love-tomato.svg)
+![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green.svg)
 
 ### Technologies
 
-[![React](https://img.shields.io/badge/React-18.x-0a7ea4.svg)](https://react.dev/){:target="\_blank" rel="noopener"}
-[![TypeScript](https://img.shields.io/badge/TypeScript-4.x-blue.svg)](https://www.typescriptlang.org/){:target="\_blank" rel="noopener"}
+[![React](https://img.shields.io/badge/React-18.x-0a7ea4.svg)](https://react.dev/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-4.x-blue.svg)](https://www.typescriptlang.org/)
 [![Jest](https://img.shields.io/badge/Jest-5.x-limegreen.svg)](https://jestjs.io/)
 [![Firebase](https://img.shields.io/badge/Firebase-10.x-yellow.svg)](https://firebase.google.com/)
 [![Material UI](https://img.shields.io/badge/Material%20UI-5.x-blueviolet.svg)](https://mui.com/)
@@ -16,31 +17,22 @@ Anyone starting with ReactJS project with the features mentioned in the next sec
 
 ### Stats
 
-![GitHub issues](https://img.shields.io/github/issues/010pixel/reactjs-firebase-auth-boilerplate)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/010pixel/reactjs-firebase-auth-boilerplate)
-![GitHub Last Commit](https://img.shields.io/github/last-commit/010pixel/reactjs-firebase-auth-boilerplate)
-![GitHub Commit Activity](https://img.shields.io/github/commit-activity/m/010pixel/reactjs-firebase-auth-boilerplate)
+[![GitHub issues](https://img.shields.io/github/issues/010pixel/reactjs-firebase-auth-boilerplate)](https://github.com/010pixel/reactjs-firebase-auth-boilerplate/issues)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/010pixel/reactjs-firebase-auth-boilerplate)](https://github.com/010pixel/reactjs-firebase-auth-boilerplate/pulls)
+[![GitHub Last Commit](https://img.shields.io/github/last-commit/010pixel/reactjs-firebase-auth-boilerplate)](https://github.com/010pixel/reactjs-firebase-auth-boilerplate/commits/main)
+[![GitHub Commit Activity](https://img.shields.io/github/commit-activity/m/010pixel/reactjs-firebase-auth-boilerplate)](https://github.com/010pixel/reactjs-firebase-auth-boilerplate/commits/main)
+
 [![pages-build-deployment](https://github.com/010pixel/reactjs-firebase-auth-boilerplate/actions/workflows/pages/pages-build-deployment/badge.svg?branch=main)](https://github.com/010pixel/reactjs-firebase-auth-boilerplate/actions/workflows/pages/pages-build-deployment)
+[![Dependabot](https://badgen.net/github/dependabot/010pixel/reactjs-firebase-auth-boilerplate)](https://github.com/010pixel/reactjs-firebase-auth-boilerplate/security/dependabot)
+
 ![GitHub repo size](https://img.shields.io/github/repo-size/010pixel/reactjs-firebase-auth-boilerplate)
 ![GitHub package.json version (branch)](https://img.shields.io/github/package-json/v/010pixel/reactjs-firebase-auth-boilerplate/main)
 ![GitHub language count](https://img.shields.io/github/languages/count/010pixel/reactjs-firebase-auth-boilerplate)
-![Dependabot](https://badgen.net/github/dependabot/010pixel/reactjs-firebase-auth-boilerplate)
-
-### Repo
-
 ![GitHub forks](https://img.shields.io/github/forks/010pixel/reactjs-firebase-auth-boilerplate)
 ![GitHub Repo stars](https://img.shields.io/github/stars/010pixel/reactjs-firebase-auth-boilerplate)
 ![GitHub contributors](https://badgen.net/github/contributors/010pixel/reactjs-firebase-auth-boilerplate)
 ![GitHub watchers](https://img.shields.io/github/watchers/010pixel/reactjs-firebase-auth-boilerplate)
 ![GitHub License](https://img.shields.io/github/license/010pixel/reactjs-firebase-auth-boilerplate)
-![PRs](https://img.shields.io/badge/PRs-Welcome-green.svg)
-
-### Support
-
-[![GitHub Sponsors](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA)](https://github.com/sponsors/010pixel)
-[![Patreon Sponsors](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3D010pixel%26type%3Dpatrons&style=for-the-badge)](https://patreon.com/010pixel)
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://coffee.010pixel.com)
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/paypalme/ravigandhi)
 
 ## Features
 
@@ -57,6 +49,13 @@ Anyone starting with ReactJS project with the features mentioned in the next sec
 ## Contributing
 
 Contributions are welcome! If you have any ideas, enhancements, or bug fixes, please open an issue or submit a pull request.
+
+### Support
+
+[![GitHub Sponsors](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA)](https://github.com/sponsors/010pixel)
+[![Patreon Sponsors](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3D010pixel%26type%3Dpatrons&style=for-the-badge)](https://patreon.com/010pixel)
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://coffee.010pixel.com)
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/paypalme/ravigandhi)
 
 ## Available Scripts
 
