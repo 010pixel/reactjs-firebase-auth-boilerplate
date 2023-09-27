@@ -44,7 +44,7 @@ Anyone starting with ReactJS project with the features mentioned in the next sec
 ![GitHub License](https://img.shields.io/github/license/010pixel/reactjs-firebase-auth-boilerplate)
 ![PRs](https://img.shields.io/badge/PRs-Welcome-green.svg)
 ![GitHub Sponsors](https://img.shields.io/github/sponsors/010pixel)
-[![Patreon](https://img.shields.io/endpoint.svg?url=https:%2F%2Fshieldsio-patreon.herokuapp.com%2F010pixel?branch=master&label=Patreon&logo=Patreon&logoColor=f96854&labelColor=306998&color=f96854&style=flat)]()
+[![Patreon](https://img.shields.io/endpoint.svg?url=https:%2F%2Fshieldsio--patreon.vercel.app%2F010pixel?branch=master&label=Patreon&logo=Patreon&logoColor=f96854&labelColor=306998&color=f96854&style=flat)]()
 
 <a href="https://patreon.com/010pixel"><img src="https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3D010pixel%26type%3Dpatrons&style=for-the-badge" /> </a>
 
