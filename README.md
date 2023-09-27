@@ -10,6 +10,8 @@
 
 </div>
 
+![Made With Love](https://img.shields.io/badge/Made%20With-Love-orangered.svg)
+
 ### Technology
 
 ![React](https://img.shields.io/badge/React-18.x-0a7ea4.svg)
@@ -19,9 +21,6 @@
 ![Material UI](https://img.shields.io/badge/Material%20UI-5.x-blueviolet.svg)
 ![i18next](https://img.shields.io/badge/i18next-22.x-green.svg)
 ![GoogleAnalytics](https://img.shields.io/badge/react%20ga4-2.x-orange.svg)
-![Made With Love](https://img.shields.io/badge/Made%20With-Love-orangered.svg)
-![PRs](https://img.shields.io/badge/PRs-Welcome-green.svg)
-![GitHub repo size](https://img.shields.io/github/repo-size/010pixel/reactjs-firebase-auth-boilerplate)
 
 ### Stats
 
@@ -30,6 +29,7 @@
 ![GitHub Last Commit](https://img.shields.io/github/last-commit/010pixel/reactjs-firebase-auth-boilerplate)
 ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/m/010pixel/reactjs-firebase-auth-boilerplate)
 [![pages-build-deployment](https://github.com/010pixel/reactjs-firebase-auth-boilerplate/actions/workflows/pages/pages-build-deployment/badge.svg?branch=main)](https://github.com/010pixel/reactjs-firebase-auth-boilerplate/actions/workflows/pages/pages-build-deployment)
+![GitHub repo size](https://img.shields.io/github/repo-size/010pixel/reactjs-firebase-auth-boilerplate)
 
 ### Repo
 
@@ -41,6 +41,7 @@
 ![GitHub Sponsors](https://img.shields.io/github/sponsors/Wikimedia)
 ![GitHub License](https://img.shields.io/github/license/010pixel/reactjs-firebase-auth-boilerplate)
 ![GitHub package.json version (branch)](https://img.shields.io/github/package-json/v/010pixel/reactjs-firebase-auth-boilerplate/main)
+![PRs](https://img.shields.io/badge/PRs-Welcome-green.svg)
 
 Anyone starting with ReactJS project with the features mentioned in the next section can just clone and start building.
 
