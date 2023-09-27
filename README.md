@@ -20,7 +20,6 @@ Anyone starting with ReactJS project with the features mentioned in the next sec
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/010pixel/reactjs-firebase-auth-boilerplate)
 ![GitHub Last Commit](https://img.shields.io/github/last-commit/010pixel/reactjs-firebase-auth-boilerplate)
 ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/m/010pixel/reactjs-firebase-auth-boilerplate)
-![GitHub Checks](https://badgen.net/github/checks/010pixel/reactjs-firebase-auth-boilerplate/main)
 [![pages-build-deployment](https://github.com/010pixel/reactjs-firebase-auth-boilerplate/actions/workflows/pages/pages-build-deployment/badge.svg?branch=main)](https://github.com/010pixel/reactjs-firebase-auth-boilerplate/actions/workflows/pages/pages-build-deployment)
 ![GitHub repo size](https://img.shields.io/github/repo-size/010pixel/reactjs-firebase-auth-boilerplate)
 ![GitHub package.json version (branch)](https://img.shields.io/github/package-json/v/010pixel/reactjs-firebase-auth-boilerplate/main)
