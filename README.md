@@ -1,20 +1,5 @@
 # React Firebase Authentication Boilerplate
 
-![GitHub forks](https://img.shields.io/github/forks/010pixel/reactjs-firebase-auth-boilerplate)
-![GitHub Repo stars](https://img.shields.io/github/stars/010pixel/reactjs-firebase-auth-boilerplate)
-![GitHub contributors (via allcontributors.org)](https://img.shields.io/github/all-contributors/010pixel/reactjs-firebase-auth-boilerplate/main)
-![GitHub watchers](https://img.shields.io/github/watchers/010pixel/reactjs-firebase-auth-boilerplate)
-![GitHub language count](https://img.shields.io/github/languages/count/010pixel/reactjs-firebase-auth-boilerplate)
-![GitHub Sponsors](https://img.shields.io/github/sponsors/Wikimedia)
-![GitHub License](https://img.shields.io/github/license/010pixel/reactjs-firebase-auth-boilerplate)
-![GitHub package.json version (branch)](https://img.shields.io/github/package-json/v/010pixel/reactjs-firebase-auth-boilerplate/main)
-
-![GitHub issues](https://img.shields.io/github/issues/010pixel/reactjs-firebase-auth-boilerplate)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/010pixel/reactjs-firebase-auth-boilerplate)
-![GitHub Last Commit](https://img.shields.io/github/last-commit/010pixel/reactjs-firebase-auth-boilerplate)
-![GitHub Commit Activity](https://img.shields.io/github/commit-activity/m/010pixel/reactjs-firebase-auth-boilerplate)
-[![pages-build-deployment](https://github.com/010pixel/reactjs-firebase-auth-boilerplate/actions/workflows/pages/pages-build-deployment/badge.svg?branch=main)](https://github.com/010pixel/reactjs-firebase-auth-boilerplate/actions/workflows/pages/pages-build-deployment)
-
 <div align='center'>
 
 [![](https://img.shields.io/badge/Ko_fi-FF5E5B?style=for-the-badge&logo=Ko-fi&logoColor=white 'Support To Buy Ko-fi')](https://coffee.010pixel.com)
@@ -24,6 +9,8 @@
 [![](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=Patreon&logoColor=white 'Become a Patreon')](https://patreon.com/010pixel)
 
 </div>
+
+### Technology
 
 ![React](https://img.shields.io/badge/React-18.x-0a7ea4.svg)
 ![TypeScript](https://img.shields.io/badge/TypeScript-4.x-blue.svg)
@@ -35,6 +22,25 @@
 ![Made With Love](https://img.shields.io/badge/Made%20With-Love-orangered.svg)
 ![PRs](https://img.shields.io/badge/PRs-Welcome-green.svg)
 ![GitHub repo size](https://img.shields.io/github/repo-size/010pixel/reactjs-firebase-auth-boilerplate)
+
+### Stats
+
+![GitHub issues](https://img.shields.io/github/issues/010pixel/reactjs-firebase-auth-boilerplate)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/010pixel/reactjs-firebase-auth-boilerplate)
+![GitHub Last Commit](https://img.shields.io/github/last-commit/010pixel/reactjs-firebase-auth-boilerplate)
+![GitHub Commit Activity](https://img.shields.io/github/commit-activity/m/010pixel/reactjs-firebase-auth-boilerplate)
+[![pages-build-deployment](https://github.com/010pixel/reactjs-firebase-auth-boilerplate/actions/workflows/pages/pages-build-deployment/badge.svg?branch=main)](https://github.com/010pixel/reactjs-firebase-auth-boilerplate/actions/workflows/pages/pages-build-deployment)
+
+### Repo
+
+![GitHub forks](https://img.shields.io/github/forks/010pixel/reactjs-firebase-auth-boilerplate)
+![GitHub Repo stars](https://img.shields.io/github/stars/010pixel/reactjs-firebase-auth-boilerplate)
+![GitHub contributors (via allcontributors.org)](https://img.shields.io/github/all-contributors/010pixel/reactjs-firebase-auth-boilerplate/main)
+![GitHub watchers](https://img.shields.io/github/watchers/010pixel/reactjs-firebase-auth-boilerplate)
+![GitHub language count](https://img.shields.io/github/languages/count/010pixel/reactjs-firebase-auth-boilerplate)
+![GitHub Sponsors](https://img.shields.io/github/sponsors/Wikimedia)
+![GitHub License](https://img.shields.io/github/license/010pixel/reactjs-firebase-auth-boilerplate)
+![GitHub package.json version (branch)](https://img.shields.io/github/package-json/v/010pixel/reactjs-firebase-auth-boilerplate/main)
 
 Anyone starting with ReactJS project with the features mentioned in the next section can just clone and start building.
 
