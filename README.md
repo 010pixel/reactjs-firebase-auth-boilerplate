@@ -1,6 +1,6 @@
 # React Firebase Authentication Boilerplate
 
-<a href="https://github.com/badges/shields/graphs/contributors" alt="Contributors"><img src="https://img.shields.io/github/contributors/badges/shields" /></a>
+<a href="https://github.com/010pixel/reactjs-firebase-auth-boilerplate/graphs/contributors" alt="Contributors"><img src="https://img.shields.io/github/contributors/badges/shields" /></a>
 
 ![React](https://img.shields.io/badge/React-18.x-0a7ea4.svg)
 ![TypeScript](https://img.shields.io/badge/TypeScript-4.x-blue.svg)
