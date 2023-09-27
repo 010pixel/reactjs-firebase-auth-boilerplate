@@ -2,16 +2,6 @@
 
 Anyone starting with ReactJS project with the features mentioned in the next section can just clone and start building.
 
-<div align='center'>
-
-[![](https://img.shields.io/badge/Ko_fi-FF5E5B?style=for-the-badge&logo=Ko-fi&logoColor=white 'Support To Buy Ko-fi')](https://coffee.010pixel.com)
-
-[![](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black 'Sponsor Me')](https://github.com/sponsors/010pixel)
-
-[![](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=Patreon&logoColor=white 'Become a Patreon')](https://patreon.com/010pixel)
-
-</div>
-
 ![Made With Love](https://img.shields.io/badge/Made%20With-Love-orangered.svg)
 
 ### Technologies
