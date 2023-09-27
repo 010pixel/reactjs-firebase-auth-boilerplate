@@ -12,7 +12,7 @@
 
 ![Made With Love](https://img.shields.io/badge/Made%20With-Love-orangered.svg)
 
-### Technology
+### Technologies
 
 ![React](https://img.shields.io/badge/React-18.x-0a7ea4.svg)
 ![TypeScript](https://img.shields.io/badge/TypeScript-4.x-blue.svg)
