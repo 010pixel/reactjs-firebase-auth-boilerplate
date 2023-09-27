@@ -8,7 +8,7 @@
 ![GitHub contributors](https://img.shields.io/github/contributors/010pixel/reactjs-firebase-auth-boilerplate)
 ![GitHub Last Commit](https://img.shields.io/github/last-commit/010pixel/reactjs-firebase-auth-boilerplate)
 ![GitHub License](https://img.shields.io/github/commit-activity/010pixel/reactjs-firebase-auth-boilerplate)
-![GitHub License](https://img.shields.io/github/commit-activity/010pixel/reactjs-firebase-auth-boilerplate)
+![GitHub Commit Activity](https://img.shields.io/github/commit-activity/010pixel/reactjs-firebase-auth-boilerplate)
 
 <div align='center'>
 
