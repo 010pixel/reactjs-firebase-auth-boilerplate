@@ -7,7 +7,7 @@
 ![Material UI](https://img.shields.io/badge/Material%20UI-5.x-blueviolet.svg)
 ![i18next](https://img.shields.io/badge/i18next-22.x-green.svg)
 ![GoogleAnalytics](https://img.shields.io/badge/react%20ga4-2.x-orange.svg)
-![Made With Love](https://img.shields.io/badge/Made%20With-Love-orange.svg)
+![Made With Love](https://img.shields.io/badge/Made%20With-Love-pink.svg)
 
 Anyone starting with ReactJS project with the features mentioned in the next section can just clone and start building.
 
