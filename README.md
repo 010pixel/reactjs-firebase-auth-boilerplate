@@ -10,7 +10,7 @@
 ![GitHub package.json version (branch)](https://img.shields.io/github/package-json/v/010pixel/reactjs-firebase-auth-boilerplate/main)
 
 ![GitHub repo file count (file type)](https://img.shields.io/github/directory-file-count/010pixel/reactjs-firebase-auth-boilerplate)
-![GitHub repo file count (file extension)](https://img.shields.io/github/directory-file-count/010pixel/reactjs-firebase-auth-boilerplate/main)
+![GitHub repo file count (file extension)](https://img.shields.io/github/directory-file-count/010pixel/reactjs-firebase-auth-boilerplate/src)
 
 ![GitHub issues](https://img.shields.io/github/issues/010pixel/reactjs-firebase-auth-boilerplate)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/010pixel/reactjs-firebase-auth-boilerplate)
