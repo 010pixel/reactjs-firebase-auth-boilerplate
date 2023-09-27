@@ -2,9 +2,17 @@
 
 <div align="center">   
   <img src="https://img.shields.io/github/forks/010pixel/reactjs-firebase-auth-boilerplate/web-badge?style=for-the-badge">
-  <img src="https://img.shields.io/github/stars/010pixel/reactjs-firebase-auth-boilerplate/web-badge?style=for-the-badge">
-  <img src="https://img.shields.io/github/issues/010pixel/reactjs-firebase-auth-boilerplate/web-badge?style=for-the-badge">
-  <img src="https://img.shields.io/github/issues-pr/010pixel/reactjs-firebase-auth-boilerplate/web-badge?style=for-the-badge">
+
+![GitHub User's stars](https://img.shields.io/github/forks/010pixel/reactjs-firebase-auth-boilerplate)
+
+![GitHub User's stars](https://img.shields.io/github/stars/010pixel/reactjs-firebase-auth-boilerplate)
+
+![GitHub issues](https://img.shields.io/github/issues/010pixel/reactjs-firebase-auth-boilerplate)
+
+![GitHub pull requests](https://img.shields.io/github/issues-pr/010pixel/reactjs-firebase-auth-boilerplate)
+
+![GitHub Sponsors](https://img.shields.io/github/sponsors/Wikimedia)
+
   <img src="https://img.shields.io/github/license/010pixel/reactjs-firebase-auth-boilerplate/web-badge?style=for-the-badge">
 </div>
 
