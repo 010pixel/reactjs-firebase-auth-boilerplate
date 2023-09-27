@@ -1,5 +1,7 @@
 # React Firebase Authentication Boilerplate
 
+Anyone starting with ReactJS project with the features mentioned in the next section can just clone and start building.
+
 <div align='center'>
 
 [![](https://img.shields.io/badge/Ko_fi-FF5E5B?style=for-the-badge&logo=Ko-fi&logoColor=white 'Support To Buy Ko-fi')](https://coffee.010pixel.com)
@@ -42,8 +44,7 @@
 ![GitHub License](https://img.shields.io/github/license/010pixel/reactjs-firebase-auth-boilerplate)
 ![PRs](https://img.shields.io/badge/PRs-Welcome-green.svg)
 ![GitHub Sponsors](https://img.shields.io/github/sponsors/010pixel)
-
-Anyone starting with ReactJS project with the features mentioned in the next section can just clone and start building.
+<a href="https://patreon.com/010pixel"><img src="https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3D010pixel%26type%3Dpatrons&style=for-the-badge" /> </a>
 
 ## Features
 
