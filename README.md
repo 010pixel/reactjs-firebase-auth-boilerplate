@@ -5,7 +5,7 @@
 ![GitHub issues](https://img.shields.io/github/issues/010pixel/reactjs-firebase-auth-boilerplate)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/010pixel/reactjs-firebase-auth-boilerplate)
 ![GitHub Sponsors](https://img.shields.io/github/sponsors/Wikimedia)
-![GitHub contributors (via allcontributors.org)](https://img.shields.io/github/all-contributors/all-contributors/all-contributors/master)
+![GitHub contributors (via allcontributors.org)](https://img.shields.io/github/all-contributors/010pixel/reactjs-firebase-auth-boilerplate/main)
 
 <div align='center'>
 
@@ -17,6 +17,7 @@
 
 </div>
 
+<a href="https://github.com/010pixel/reactjs-firebase-auth-boilerplate/graphs/contributors" alt="Contributors"><img src="https://img.shields.io/github/contributors/010pixel/reactjs-firebase-auth-boilerplate" /></a>
 <a href="https://github.com/010pixel/reactjs-firebase-auth-boilerplate/pulse" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/010pixel/reactjs-firebase-auth-boilerplate" /></a>
 
 [![pages-build-deployment](https://github.com/010pixel/reactjs-firebase-auth-boilerplate/actions/workflows/pages/pages-build-deployment/badge.svg?branch=main)](https://github.com/010pixel/reactjs-firebase-auth-boilerplate/actions/workflows/pages/pages-build-deployment)
