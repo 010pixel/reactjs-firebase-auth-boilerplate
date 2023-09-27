@@ -6,13 +6,13 @@ Anyone starting with ReactJS project with the features mentioned in the next sec
 
 ### Technologies
 
-![React](https://img.shields.io/badge/React-18.x-0a7ea4.svg)
-![TypeScript](https://img.shields.io/badge/TypeScript-4.x-blue.svg)
-![Jest](https://img.shields.io/badge/Jest-5.x-limegreen.svg)
-![Firebase](https://img.shields.io/badge/Firebase-10.x-yellow.svg)
-![Material UI](https://img.shields.io/badge/Material%20UI-5.x-blueviolet.svg)
-![i18next](https://img.shields.io/badge/i18next-22.x-green.svg)
-![GoogleAnalytics](https://img.shields.io/badge/React%20GA4-2.x-orange.svg)
+[![React](https://img.shields.io/badge/React-18.x-0a7ea4.svg)](https://react.dev/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-4.x-blue.svg)](https://www.typescriptlang.org/)
+[![Jest](https://img.shields.io/badge/Jest-5.x-limegreen.svg)](https://jestjs.io/)
+[![Firebase](https://img.shields.io/badge/Firebase-10.x-yellow.svg)](https://firebase.google.com/)
+[![Material UI](https://img.shields.io/badge/Material%20UI-5.x-blueviolet.svg)](https://mui.com/)
+[![i18next](https://img.shields.io/badge/i18next-22.x-green.svg)](https://react.i18next.com/)
+[![GoogleAnalytics](https://img.shields.io/badge/React%20GA4-2.x-orange.svg)](https://www.npmjs.com/package/react-ga4)
 
 ### Stats
 
