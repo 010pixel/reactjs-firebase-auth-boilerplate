@@ -2,7 +2,7 @@
 
 Anyone starting with ReactJS project with the features mentioned in the next section can just clone and start building.
 
-![Made With Love](https://img.shields.io/badge/Made%20With-Love-tomato.svg)
+![Made With Love](https://img.shields.io/badge/:heart:%20Made%20With-Love-tomato.svg)
 ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green.svg)
 
 ### Technologies
