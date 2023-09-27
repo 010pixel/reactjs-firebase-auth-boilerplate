@@ -2,7 +2,7 @@
 
 ![React](https://img.shields.io/badge/React-18.x-0a7ea4.svg)
 ![TypeScript](https://img.shields.io/badge/TypeScript-4.x-blue.svg)
-![Jest](https://img.shields.io/badge/Jest-5.x-0a7ea4.svg)
+![Jest](https://img.shields.io/badge/Jest-5.x-lightgreen.svg)
 ![Firebase](https://img.shields.io/badge/Firebase-10.x-yellow.svg)
 ![Material UI](https://img.shields.io/badge/Material%20UI-5.x-blueviolet.svg)
 ![i18next](https://img.shields.io/badge/i18next-22.x-green.svg)
