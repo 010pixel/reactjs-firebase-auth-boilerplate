@@ -38,7 +38,7 @@
 ![GitHub contributors (via allcontributors.org)](https://img.shields.io/github/all-contributors/010pixel/reactjs-firebase-auth-boilerplate/main)
 ![GitHub watchers](https://img.shields.io/github/watchers/010pixel/reactjs-firebase-auth-boilerplate)
 ![GitHub language count](https://img.shields.io/github/languages/count/010pixel/reactjs-firebase-auth-boilerplate)
-![GitHub Sponsors](https://img.shields.io/github/sponsors/Wikimedia)
+![GitHub Sponsors](https://img.shields.io/github/sponsors/010pixel)
 ![GitHub License](https://img.shields.io/github/license/010pixel/reactjs-firebase-auth-boilerplate)
 ![GitHub package.json version (branch)](https://img.shields.io/github/package-json/v/010pixel/reactjs-firebase-auth-boilerplate/main)
 ![PRs](https://img.shields.io/badge/PRs-Welcome-green.svg)
