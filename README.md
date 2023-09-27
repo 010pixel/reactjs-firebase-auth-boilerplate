@@ -1,9 +1,16 @@
 # React Firebase Authentication Boilerplate
 
+<div align="center">   
+  <img src="https://img.shields.io/github/forks/010pixel/web-badge?style=for-the-badge">
+  <img src="https://img.shields.io/github/stars/010pixel/web-badge?style=for-the-badge">
+  <img src="https://img.shields.io/github/issues/010pixel/web-badge?style=for-the-badge">
+  <img src="https://img.shields.io/github/issues-pr/010pixel/web-badge?style=for-the-badge">
+  <img src="https://img.shields.io/github/license/010pixel/web-badge?style=for-the-badge">
+</div>
+
 <a href="https://github.com/010pixel/reactjs-firebase-auth-boilerplate/graphs/contributors" alt="Contributors"><img src="https://img.shields.io/github/contributors/010pixel/reactjs-firebase-auth-boilerplate" /></a>
 <a href="https://github.com/010pixel/reactjs-firebase-auth-boilerplate/pulse" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/010pixel/reactjs-firebase-auth-boilerplate" /></a>
 
-![GitHub Action](https://github.com/github/docs/actions/workflows/main.yml/badge.svg)
 ![React](https://img.shields.io/badge/React-18.x-0a7ea4.svg)
 ![TypeScript](https://img.shields.io/badge/TypeScript-4.x-blue.svg)
 ![Jest](https://img.shields.io/badge/Jest-5.x-limegreen.svg)
@@ -11,8 +18,8 @@
 ![Material UI](https://img.shields.io/badge/Material%20UI-5.x-blueviolet.svg)
 ![i18next](https://img.shields.io/badge/i18next-22.x-green.svg)
 ![GoogleAnalytics](https://img.shields.io/badge/react%20ga4-2.x-orange.svg)
-![Made With Love](https://img.shields.io/badge/Made%20With-Love-deeppink.svg)
 ![Made With Love](https://img.shields.io/badge/Made%20With-Love-orangered.svg)
+![PRs](https://img.shields.io/badge/Welcome-green.svg)
 
 Anyone starting with ReactJS project with the features mentioned in the next section can just clone and start building.
 
