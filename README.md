@@ -32,7 +32,7 @@
 ![GoogleAnalytics](https://img.shields.io/badge/react%20ga4-2.x-orange.svg)
 ![Made With Love](https://img.shields.io/badge/Made%20With-Love-orangered.svg)
 ![PRs](https://img.shields.io/badge/PRs-Welcome-green.svg)
-![license|MIT](./output-svg/license-mit.svg)
+[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
 ![GitHub repo size](https://img.shields.io/github/repo-size/010pixel/reactjs-firebase-auth-boilerplate)
 
 Anyone starting with ReactJS project with the features mentioned in the next section can just clone and start building.
