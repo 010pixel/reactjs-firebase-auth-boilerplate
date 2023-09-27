@@ -9,6 +9,7 @@
 ![GitHub Last Commit](https://img.shields.io/github/last-commit/010pixel/reactjs-firebase-auth-boilerplate)
 ![GitHub License](https://img.shields.io/github/commit-activity/010pixel/reactjs-firebase-auth-boilerplate)
 [![pages-build-deployment](https://github.com/010pixel/reactjs-firebase-auth-boilerplate/actions/workflows/pages/pages-build-deployment/badge.svg?branch=main)](https://github.com/010pixel/reactjs-firebase-auth-boilerplate/actions/workflows/pages/pages-build-deployment)
+<a href="https://github.com/010pixel/reactjs-firebase-auth-boilerplate/pulse" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/010pixel/reactjs-firebase-auth-boilerplate" /></a>
 
 <div align='center'>
 
@@ -19,8 +20,6 @@
 [![](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=Patreon&logoColor=white 'Become a Patreon')](https://patreon.com/010pixel)
 
 </div>
-
-<a href="https://github.com/010pixel/reactjs-firebase-auth-boilerplate/pulse" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/010pixel/reactjs-firebase-auth-boilerplate" /></a>
 
 ![React](https://img.shields.io/badge/React-18.x-0a7ea4.svg)
 ![TypeScript](https://img.shields.io/badge/TypeScript-4.x-blue.svg)
