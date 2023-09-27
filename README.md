@@ -5,7 +5,8 @@
 ![GitHub issues](https://img.shields.io/github/issues/010pixel/reactjs-firebase-auth-boilerplate)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/010pixel/reactjs-firebase-auth-boilerplate)
 ![GitHub Sponsors](https://img.shields.io/github/sponsors/Wikimedia)
-![GitHub contributors (via allcontributors.org)](https://img.shields.io/github/contributors/010pixel/reactjs-firebase-auth-boilerplate)
+![GitHub contributors](https://img.shields.io/github/contributors/010pixel/reactjs-firebase-auth-boilerplate)
+![GitHub Last Commit](https://img.shields.io/github/last-commit/010pixel/reactjs-firebase-auth-boilerplate)
 
 <div align='center'>
 
