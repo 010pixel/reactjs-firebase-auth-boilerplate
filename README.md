@@ -12,7 +12,7 @@ Anyone starting with ReactJS project with the features mentioned in the next sec
 ![Firebase](https://img.shields.io/badge/Firebase-10.x-yellow.svg)
 ![Material UI](https://img.shields.io/badge/Material%20UI-5.x-blueviolet.svg)
 ![i18next](https://img.shields.io/badge/i18next-22.x-green.svg)
-![GoogleAnalytics](https://img.shields.io/badge/react%20ga4-2.x-orange.svg)
+![GoogleAnalytics](https://img.shields.io/badge/React%20GA4-2.x-orange.svg)
 
 ### Stats
 
