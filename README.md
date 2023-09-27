@@ -42,7 +42,6 @@
 ![GitHub License](https://img.shields.io/github/license/010pixel/reactjs-firebase-auth-boilerplate)
 ![GitHub package.json version (branch)](https://img.shields.io/github/package-json/v/010pixel/reactjs-firebase-auth-boilerplate/main)
 ![PRs](https://img.shields.io/badge/PRs-Welcome-green.svg)
-![Liberapay patrons](https://img.shields.io/liberapay/patrons/010pixel)
 
 Anyone starting with ReactJS project with the features mentioned in the next section can just clone and start building.
 
