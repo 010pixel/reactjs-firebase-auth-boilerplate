@@ -1,11 +1,12 @@
 # React Firebase Authentication Boilerplate
 
-![React](https://img.shields.io/badge/React-18.2.0-0a7ea4.svg)
-![TypeScript](https://img.shields.io/badge/TypeScript-4.9.5-blue.svg)
-![Firebase](https://img.shields.io/badge/Firebase-10.4.0-yellow.svg)
-![Material UI](https://img.shields.io/badge/Material%20UI-5.11.8-blueviolet.svg)
-![i18next](https://img.shields.io/badge/i18next-22.4.9-green.svg)
-![GoogleAnalytics](https://img.shields.io/badge/react%20ga4-2.0.0-green.svg)
+![React](https://img.shields.io/badge/React-18.x-0a7ea4.svg)
+![TypeScript](https://img.shields.io/badge/TypeScript-4.x-blue.svg)
+![Jest](https://img.shields.io/badge/Jest-5.x-0a7ea4.svg)
+![Firebase](https://img.shields.io/badge/Firebase-10.x-yellow.svg)
+![Material UI](https://img.shields.io/badge/Material%20UI-5.x-blueviolet.svg)
+![i18next](https://img.shields.io/badge/i18next-22.x-green.svg)
+![GoogleAnalytics](https://img.shields.io/badge/react%20ga4-2.x-green.svg)
 
 Anyone starting with ReactJS project with the features mentioned in the next section can just clone and start building.
 
