@@ -15,8 +15,6 @@
 ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/m/010pixel/reactjs-firebase-auth-boilerplate)
 [![pages-build-deployment](https://github.com/010pixel/reactjs-firebase-auth-boilerplate/actions/workflows/pages/pages-build-deployment/badge.svg?branch=main)](https://github.com/010pixel/reactjs-firebase-auth-boilerplate/actions/workflows/pages/pages-build-deployment)
 
-<a href="https://github.com/010pixel/reactjs-firebase-auth-boilerplate/pulse" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/010pixel/reactjs-firebase-auth-boilerplate" /></a>
-
 <div align='center'>
 
 [![](https://img.shields.io/badge/Ko_fi-FF5E5B?style=for-the-badge&logo=Ko-fi&logoColor=white 'Support To Buy Ko-fi')](https://coffee.010pixel.com)
