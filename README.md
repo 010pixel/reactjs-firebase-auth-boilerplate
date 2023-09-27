@@ -24,6 +24,7 @@ Anyone starting with ReactJS project with the features mentioned in the next sec
 ![GitHub repo size](https://img.shields.io/github/repo-size/010pixel/reactjs-firebase-auth-boilerplate)
 ![GitHub package.json version (branch)](https://img.shields.io/github/package-json/v/010pixel/reactjs-firebase-auth-boilerplate/main)
 ![GitHub language count](https://img.shields.io/github/languages/count/010pixel/reactjs-firebase-auth-boilerplate)
+![Dependabot](https://badgen.net/github/dependabot/010pixel/reactjs-firebase-auth-boilerplate)
 
 ### Repo
 
