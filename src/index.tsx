@@ -7,6 +7,7 @@ import App from './App';
 import './index.css';
 import { AuthProvider } from './features/auth/AuthProvider';
 import { GlobalProvider } from './features/Global/GlobalProvider';
+import './i18n';
 
 if (process.env.REACT_APP_GOOGLE_ANALYTICS_ID) {
 	ReactGA.initialize(process.env.REACT_APP_GOOGLE_ANALYTICS_ID);
