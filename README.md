@@ -1,14 +1,18 @@
 # React Firebase Authentication Boilerplate
 
-![GitHub User's stars](https://img.shields.io/github/forks/010pixel/reactjs-firebase-auth-boilerplate)
-![GitHub User's stars](https://img.shields.io/github/stars/010pixel/reactjs-firebase-auth-boilerplate)
+![GitHub forks](https://img.shields.io/github/forks/010pixel/reactjs-firebase-auth-boilerplate)
+![GitHub Repo stars](https://img.shields.io/github/stars/010pixel/reactjs-firebase-auth-boilerplate)
+![GitHub contributors (via allcontributors.org)](https://img.shields.io/github/all-contributors/010pixel/reactjs-firebase-auth-boilerplate/main)
+![GitHub watchers](https://img.shields.io/github/watchers/010pixel/reactjs-firebase-auth-boilerplate)
+![GitHub language count](https://img.shields.io/github/languages/count/010pixel/reactjs-firebase-auth-boilerplate)
+![GitHub Sponsors](https://img.shields.io/github/sponsors/Wikimedia)
+![GitHub License](https://img.shields.io/github/commit-activity/010pixel/reactjs-firebase-auth-boilerplate)
+
 ![GitHub issues](https://img.shields.io/github/issues/010pixel/reactjs-firebase-auth-boilerplate)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/010pixel/reactjs-firebase-auth-boilerplate)
-![GitHub Sponsors](https://img.shields.io/github/sponsors/Wikimedia)
-![GitHub contributors](https://img.shields.io/github/contributors/010pixel/reactjs-firebase-auth-boilerplate)
 ![GitHub Last Commit](https://img.shields.io/github/last-commit/010pixel/reactjs-firebase-auth-boilerplate)
-![GitHub License](https://img.shields.io/github/commit-activity/010pixel/reactjs-firebase-auth-boilerplate)
 [![pages-build-deployment](https://github.com/010pixel/reactjs-firebase-auth-boilerplate/actions/workflows/pages/pages-build-deployment/badge.svg?branch=main)](https://github.com/010pixel/reactjs-firebase-auth-boilerplate/actions/workflows/pages/pages-build-deployment)
+
 <a href="https://github.com/010pixel/reactjs-firebase-auth-boilerplate/pulse" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/010pixel/reactjs-firebase-auth-boilerplate" /></a>
 
 <div align='center'>
