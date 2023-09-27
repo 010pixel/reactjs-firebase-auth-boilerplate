@@ -1,0 +1,115 @@
+{
+	"name": "my-app",
+	"version": "1.0.0",
+	"private": true,
+	"scripts": {
+		"start": "react-scripts start",
+		"build": "react-scripts build",
+		"test": "react-scripts test",
+		"test:ci": "cross-env CI=true react-scripts test",
+		"test:coverage": "npm run test:ci -- --coverage --color",
+		"lint:styles": "stylelint 'src/**/*.scss'",
+		"lint:scripts": "eslint 'src/**/*.{js,ts,tsx}' && tsc",
+		"lint": "npm-run-all -p lint:s*",
+		"lint:styles:fix": "stylelint --fix 'src/**/*.scss'",
+		"lint:scripts:fix": "eslint --fix 'src/**/*.{js,ts,tsx}'",
+		"lint:fix": "npm-run-all -p lint:s*:f*",
+		"prettier:fix": "prettier --write .",
+		"eject": "react-scripts eject"
+	},
+	"dependencies": {
+		"@emotion/react": "^11.10.5",
+		"@emotion/styled": "^11.10.5",
+		"@mui/icons-material": "^5.11.0",
+		"@mui/material": "^5.11.8",
+		"cross-env": "^7.0.3",
+		"firebase": "^10.4.0",
+		"firebaseui": "^6.1.0",
+		"i18next": "^22.4.9",
+		"i18next-browser-languagedetector": "^7.0.1",
+		"node-sass": "^7.0.3",
+		"react": "^18.2.0",
+		"react-dom": "^18.2.0",
+		"react-ga4": "^2.0.0",
+		"react-i18next": "^12.1.5",
+		"react-router-dom": "^6.8.1",
+		"react-scripts": "^5.0.1",
+		"styled-components": "^5.3.6",
+		"typescript": "^4.9.5",
+		"web-vitals": "^2.1.4"
+	},
+	"devDependencies": {
+		"@testing-library/jest-dom": "^5.16.5",
+		"@testing-library/react": "^13.4.0",
+		"@testing-library/user-event": "^13.5.0",
+		"@types/jest": "^27.5.2",
+		"@types/node": "^16.18.12",
+		"@types/react": "^18.0.27",
+		"@types/react-dom": "^18.0.10",
+		"@typescript-eslint/eslint-plugin": "^5.51.0",
+		"@typescript-eslint/parser": "^5.51.0",
+		"eslint": "^8.33.0",
+		"eslint-config-airbnb": "^19.0.4",
+		"eslint-config-airbnb-typescript": "^17.0.0",
+		"eslint-config-prettier": "^8.6.0",
+		"eslint-plugin-import": "^2.27.5",
+		"eslint-plugin-jsx-a11y": "^6.7.1",
+		"eslint-plugin-prettier": "^4.2.1",
+		"eslint-plugin-react": "^7.32.2",
+		"eslint-plugin-react-hooks": "^4.6.0",
+		"npm-run-all": "^4.1.5",
+		"prettier": "2.8.3",
+		"stylelint": "^14.16  .1",
+		"stylelint-config-prettier": "^9.0.4",
+		"stylelint-prettier": "^2.0.0"
+	},
+	"eslintConfig": {
+		"extends": [
+			"react-app",
+			"react-app/jest"
+		]
+	},
+	"browserslist": {
+		"production": [
+			">0.2%",
+			"not dead",
+			"not op_mini all"
+		],
+		"development": [
+			"last 1 chrome version",
+			"last 1 firefox version",
+			"last 1 safari version"
+		]
+	},
+	"jest": {
+		"collectCoverageFrom": [
+			"src/**/*.{ts,tsx}",
+			"!src/**/(index.tsx|index.ts|types.ts|constants.ts|interface/*|interface.*)",
+			"!src/(index.tsx|reportWebVitals.ts|*.d.ts)"
+		],
+		"coverageReporters": [
+			"clover",
+			"json",
+			"lcov",
+			"text",
+			"text-summary"
+		],
+		"coverageThreshold": {
+			"global": {
+				"branches": 50,
+				"functions": 70,
+				"lines": 50,
+				"statements": 70
+			}
+		}
+	},
+	"engines": {
+		"node": ">=16.15.1",
+		"npm": ">=8.11.0",
+		"yarn": "please use npm instead"
+	},
+	"lint-staged": {
+		"src/**/*.{js,ts,tsx}": "eslint --fix",
+		"src/**/*.scss": "stylelint --fix"
+	}
+}

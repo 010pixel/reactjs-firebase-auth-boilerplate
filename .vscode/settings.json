@@ -1,0 +1,10 @@
+{
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "css.customData": ["./.vscode/custom.css-data.json"],
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "prettier.singleQuote": true,
+  "cSpell.words": ["daterange", "wojtekmaj"]
+}

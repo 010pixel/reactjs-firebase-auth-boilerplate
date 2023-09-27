@@ -1,0 +1,57 @@
+{
+	"env": {
+		"browser": true,
+		"es2021": true,
+		"jest": true
+	},
+	"extends": [
+		"react-app",
+		"react-app/jest",
+		"airbnb",
+		"airbnb-typescript",
+		"plugin:import/typescript",
+		"plugin:prettier/recommended"
+	],
+	"parser": "@typescript-eslint/parser",
+	"parserOptions": {
+		"ecmaFeatures": {
+			"jsx": true
+		},
+		"ecmaVersion": "latest",
+		"sourceType": "module",
+		"project": "./tsconfig.json"
+	},
+	"plugins": ["react", "@typescript-eslint", "prettier"],
+	"rules": {
+		"react/jsx-one-expression-per-line": "off",
+		"comma-dangle": "off",
+		"no-plusplus": "off",
+		"no-param-reassign": "off",
+		"no-console": "off",
+		"@typescript-eslint/comma-dangle": "off",
+		"import/no-extraneous-dependencies": ["error", { "devDependencies": true }],
+		"import/no-import-module-exports": ["off"],
+		"react/require-default-props": ["off"],
+		"react/state-in-constructor": ["off"],
+		"react/jsx-props-no-spreading": "off",
+		"react/function-component-definition": "off",
+		"react/prop-types": "off",
+		"react/destructuring-assignment": ["off"],
+		"react/no-unescaped-entities": "off",
+		"jsx-a11y/click-events-have-key-events": ["off"],
+		"jsx-a11y/no-static-element-interactions": ["off"],
+		"jsx-a11y/label-has-associated-control": "off",
+		"jsx-a11y/control-has-associated-label": "off",
+		"jsx-a11y/interactive-supports-focus": "off",
+		"jsx-a11y/tabindex-no-positive": ["off"],
+		"jsx-a11y/anchor-is-valid": "off",
+		"testing-library/no-node-access": "off",
+		"@typescript-eslint/naming-convention": [
+			"error",
+			{
+				"selector": "enum",
+				"format": ["UPPER_CASE", "PascalCase"]
+			}
+		]
+	}
+}
