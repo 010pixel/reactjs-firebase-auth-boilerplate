@@ -46,7 +46,7 @@ Anyone starting with ReactJS project with the features mentioned in the next sec
 
 ### Support
 
-[![GitHub Sponsors](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA&style=for-the-badge)](https://github.com/sponsors/010pixel)
+[![GitHub Sponsors](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA)](https://github.com/sponsors/010pixel)
 [![Patreon Sponsors](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3D010pixel%26type%3Dpatrons&style=for-the-badge)](https://patreon.com/010pixel)
 
 ## Features
