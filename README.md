@@ -6,8 +6,8 @@ Anyone starting with ReactJS project with the features mentioned in the next sec
 
 ### Technologies
 
-[![React](https://img.shields.io/badge/React-18.x-0a7ea4.svg)](https://react.dev/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-4.x-blue.svg)](https://www.typescriptlang.org/)
+[![React](https://img.shields.io/badge/React-18.x-0a7ea4.svg)](https://react.dev/){:target="\_blank" rel="noopener"}
+[![TypeScript](https://img.shields.io/badge/TypeScript-4.x-blue.svg)](https://www.typescriptlang.org/){:target="\_blank" rel="noopener"}
 [![Jest](https://img.shields.io/badge/Jest-5.x-limegreen.svg)](https://jestjs.io/)
 [![Firebase](https://img.shields.io/badge/Firebase-10.x-yellow.svg)](https://firebase.google.com/)
 [![Material UI](https://img.shields.io/badge/Material%20UI-5.x-blueviolet.svg)](https://mui.com/)
