@@ -7,6 +7,7 @@
 ![GitHub Sponsors](https://img.shields.io/github/sponsors/Wikimedia)
 ![GitHub contributors](https://img.shields.io/github/contributors/010pixel/reactjs-firebase-auth-boilerplate)
 ![GitHub Last Commit](https://img.shields.io/github/last-commit/010pixel/reactjs-firebase-auth-boilerplate)
+![GitHub License](https://img.shields.io/github/license/010pixel/reactjs-firebase-auth-boilerplate)
 
 <div align='center'>
 
