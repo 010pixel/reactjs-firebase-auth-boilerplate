@@ -6,11 +6,11 @@ import RouteConfig from './interface';
 
 const renderRoutes = (mainRoutes: RouteConfig[]) => {
 	const Routes = () => {
-		const layouts = mainRoutes.map(({ layout: Layout, component, path, isPublic }: RouteConfig) => {
+		const layouts = mainRoutes.map(({ layout: Layout, component, path, exact, isPublic }: RouteConfig) => {
 			Layout = Layout || DefaultLayout;
 			return (
 				<Route
-					path={path}
+					path={`${path}${exact ? '' : '/*'}`}
 					key={path}
 					element={
 						<ProtectedRoute isPublic={isPublic}>
