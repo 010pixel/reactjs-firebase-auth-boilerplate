@@ -1,8 +1,8 @@
 import React, { useEffect } from 'react';
-import firebase from 'firebase/compat/app';
 import * as firebaseui from 'firebaseui';
 import { ReactFCC } from '../../../../interface/react';
 import { auth } from '../../service/firebase';
+import { selectedSignInOptions } from './signInOptions';
 
 interface LoginBoxProps {}
 
@@ -29,22 +29,10 @@ const LoginBox: ReactFCC<LoginBoxProps> = () => {
 				uiShown,
 			},
 			signInSuccessUrl: 'https://www.anyurl.com', // This is where should redirect if the sign in is successful.
-			signInOptions: [
-				// This array contains all the ways an user can authenticate in your application. For this example, is only by email.
-				{
-					provider: firebase.auth.EmailAuthProvider.PROVIDER_ID,
-					requireDisplayName: true,
-					disableSignUp: {
-						status: true,
-					},
-				},
-				firebase.auth.GoogleAuthProvider.PROVIDER_ID,
-				firebase.auth.FacebookAuthProvider.PROVIDER_ID,
-				firebase.auth.TwitterAuthProvider.PROVIDER_ID,
-				firebase.auth.GithubAuthProvider.PROVIDER_ID,
-			],
+			signInOptions: selectedSignInOptions,
 			tosUrl: 'https://www.example.com/terms-conditions', // URL to you terms and conditions.
 			privacyPolicyUrl,
+			signInFlow: 'popup',
 		} as any);
 	}, []);
 
