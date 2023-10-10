@@ -7,7 +7,7 @@ import RouteConfig from './interface';
 const renderRoutes = (mainRoutes: RouteConfig[]) => {
 	const Routes = () => {
 		const layouts = mainRoutes.map(({ layout: Layout, component, path, exact, isPublic }: RouteConfig) => {
-			Layout = Layout || DefaultLayout;
+			Layout = Layout || React.Fragment;
 			return (
 				<Route
 					path={`${path}${exact ? '' : '/*'}`}
